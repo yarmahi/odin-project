@@ -160,11 +160,12 @@ a{
 }
 .inner{
     margin: auto;
+
 }
 .inner div{
     font-size: 20px;
     font-weight: 600;
-    padding-top: 15px;   
+       
 }
 .inner p{
     color: #E5E7EB;
